@@ -1,3 +1,5 @@
+# Program do obliczania stopnia pokrewieństwa między wnukami jednej babci urodzonymi z dwóch różnych dziadków
+
 import random
 
 def simulate():
